@@ -162,6 +162,14 @@ npm run deploy
 
 ---
 
+## 🚀 Deployment
+
+The project is deployed and live on Netlify.
+
+**🔗 Live Demo:** https://hjanoti-portfolio.netlify.app
+
+---
+
 ## 👤 Author
 
 **Heera Singh Janoti**  
